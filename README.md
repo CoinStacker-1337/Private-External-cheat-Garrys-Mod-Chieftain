@@ -15,3 +15,13 @@ The cheat interacts with the game through the driver without any writing to the 
 ![alt text](https://nztcdn.com/files/603ba5e0-3cec-43b2-abec-fe0359336dc2.webp)
 ![alt text](https://nztcdn.com/files/fddedc50-9c96-46a9-8e9b-5fc203ab26a9.webp)
 ![alt text](https://nztcdn.com/files/11a7dc94-3021-4e76-bba4-41d8febf80b0.webp)
+
+•**Game client:
+Steam ,
+Supported systems:
+Windows 7,8,8.1,10 ,
+Supported processors:
+Intel and AMD ,
+Supported game modes:
+All**
+
