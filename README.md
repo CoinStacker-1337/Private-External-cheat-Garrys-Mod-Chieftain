@@ -16,12 +16,17 @@ The cheat interacts with the game through the driver without any writing to the 
 ![alt text](https://nztcdn.com/files/fddedc50-9c96-46a9-8e9b-5fc203ab26a9.webp)
 ![alt text](https://nztcdn.com/files/11a7dc94-3021-4e76-bba4-41d8febf80b0.webp)
 
-•**Game client:
+•Game client:
 Steam ,
 Supported systems:
 Windows 7,8,8.1,10 ,
 Supported processors:
 Intel and AMD ,
 Supported game modes:
-All**
+All
 
+# Join The Telegram
+
+<a href="[https://t.me/We_Win_More]">
+  <img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram" width="290">
+</a>
